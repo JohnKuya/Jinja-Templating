@@ -1,0 +1,27 @@
+.body{
+    background-color: violet;
+}
+.h1{
+    font-style: italic;
+    font-family: "Times New Roman";
+    font-weight: bold;
+}
+.p1{
+    font-weight: unset;
+    font-style: inherit;
+    font-size: large;
+    font-family: "Arial Black";
+}
+.h2{
+    font-family: "Arial Black";
+    font-style: oblique;
+    font-size: larger;
+    font-weight: bold;
+}
+.p2{
+    font-weight: unset;
+    font-style: inherit;
+    font-size: large;
+    font-family: "Arial Black";
+
+}
